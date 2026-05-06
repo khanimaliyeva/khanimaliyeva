@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khanim Aliyeva</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Backend developer</h3>
 
 ---
 
@@ -17,19 +17,20 @@
 
 ## 📫 Connect with me
 
-<p align="left">
-  <a href="www.linkedin.com/in/khanim-aliyeva">
+<p align="center">
+  <a href="https://www.linkedin.com/in/khanim-aliyeva" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:aliyevakhanim386@gmail.com">
+  <a href="mailto:aliyevakhanim386@gmail.com" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-khanim.vercel.app/">
+  <a href="https://portfolio-khanim.vercel.app/" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ### 💻 Frontend
@@ -39,13 +40,15 @@
 
 ---
 
+
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,sql" />
-</p>
-<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
+
+  
 
 ---
 
