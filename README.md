@@ -41,7 +41,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sql" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
