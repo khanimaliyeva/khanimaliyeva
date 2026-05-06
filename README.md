@@ -18,37 +18,42 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="www.linkedin.com/in/khanim-aliyeva">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aliyevakhanim386@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://portfolio-khanim.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+---
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap" />
 </p>
 
 ---
 
-## 🛠 Languages and Tools
-
-### 💻 Tech Stack (Icons inline)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanimaliyeva&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+### 🛠 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,visualstudio,vscode,postman" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanimaliyeva&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
+---
+
